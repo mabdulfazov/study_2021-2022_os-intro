@@ -40,6 +40,7 @@ header-includes:
   - \postdisplaypenalty=0 # penalty for breaking after a display
   - \floatingpenalty=20000 # penalty for splitting an insertion (can only be split footnote in standard LaTeX)
   - \raggedbottom # or \flushbottom
+  - \usepackage[russian]{babel}
   - \usepackage{float} # keep figures where there are in the text
   - \floatplacement{figure}{H} # keep figures where there are in the text
 ---
