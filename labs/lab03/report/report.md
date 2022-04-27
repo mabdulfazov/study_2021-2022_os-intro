@@ -57,61 +57,61 @@ header-includes:
 
 1 Установка git-flow в Fedora Linux (Рис. 1)
 
-![Установка git-flow в Fedora Linux](./images/1.png){#fig:001 width=70%}
+![Установка git-flow в Fedora Linux](https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/1.png){#fig:001 width=70%}
 
 
 2 Установка gh в Fedora Linux (Рис. 2)
 
-![Установка gh в Fedora Linu](./images/2.png){#fig:002 width=70%}
+![Установка gh в Fedora Linu](https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/2.png){#fig:002 width=70%}
 
 
 3 Базовая настройка git (Рис. 3)
 
-![Базовая настройка](./images/3.png){#fig:003 width=70%}
+![Базовая настройка](https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/3.png){#fig:003 width=70%}
 
 
 4 Создание ssh ключей (Рис. 4.1,2)
 
-![Создание ssh ключа по алгоритму rsa](./images/4.png){#fig:004 width=70%}
+![Создание ssh ключа по алгоритму rsa](https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/4.png){#fig:004 width=70%}
 
-![Создание ssh ключа по алгоритму ed25519](./images/5.png){#fig:005 width=70%}
+![Создание ssh ключа по алгоритму ed25519](https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/5.png){#fig:005 width=70%}
 
 
 5 Создание pgp ключа (рис. 5)
 
-![Создание pgp – ключа](./images/6.png){#fig:006 width=70%}
+![Создание pgp – ключа](https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/6.png){#fig:006 width=70%}
 
 6 Добавление PGP ключа на GitHub (Рис. 6)
 
-![Добавление pgp – ключа в GitHub](./images/7.png){#fig:007 width=70%}
+![Добавление pgp – ключа в GitHub](.https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/7.png){#fig:007 width=70%}
 
 
 7 Настройка автоматических подписей коммитов git (Рис. 7)
 
-![Настройка автоматических подписей коммитов git](./images/8.png){#fig:008 width=70%}
+![Настройка автоматических подписей коммитов git](https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/8.png){#fig:008 width=70%}
 
 
 8 Создание репозиториев на основе шаблона (Рис. 8.1,2)
 
-![Создание репозиториев на основе шаблона](./images/9.png){#fig:009 width=70%}
+![Создание репозиториев на основе шаблона](https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/9.png){#fig:009 width=70%}
 
-![Создание репозиториев на основе шаблона](./images/10.png){#fig:010 width=70%}
+![Создание репозиториев на основе шаблона](https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/10.png){#fig:010 width=70%}
 
 
 9 Настройка каталога курса (Рис. 9.1,2,3)
 
-![Удаление лишних файлов и создание необходимых каталогов](./images/11.png){#fig:0011 width=70%}
+![Удаление лишних файлов и создание необходимых каталогов](.https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/11.png){#fig:0011 width=70%}
 
 
-![Отправка файлов на сервер](/Users/sevil/Desktop/OS/lab3/report/images/12.png){#fig:0012 width=70%}
+![Отправка файлов на сервер](https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/12.png){#fig:0012 width=70%}
 
 
-![Отправка файлов на сервер](./images/13.png){#fig:0013 width=70%}
+![Отправка файлов на сервер](https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/13.png){#fig:0013 width=70%}
 
 
 10 Результат выполненной работы (Рис. 10)
 
-![Результат выполненной работы](./images/14.png){#fig:0014 width=70%}
+![Результат выполненной работы](https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/14.png){#fig:0014 width=70%}
 
 # Выводы
 
