@@ -83,7 +83,7 @@ header-includes:
 
 6 Добавление PGP ключа на GitHub (Рис. 6)
 
-![Добавление pgp – ключа в GitHub](.https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/7.png){#fig:007 width=70%}
+![Добавление pgp – ключа в GitHub](https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/7.png){#fig:007 width=70%}
 
 
 7 Настройка автоматических подписей коммитов git (Рис. 7)
@@ -100,7 +100,7 @@ header-includes:
 
 9 Настройка каталога курса (Рис. 9.1,2,3)
 
-![Удаление лишних файлов и создание необходимых каталогов](.https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/11.png){#fig:0011 width=70%}
+![Удаление лишних файлов и создание необходимых каталогов](https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/11.png){#fig:0011 width=70%}
 
 
 ![Отправка файлов на сервер](https://github.com/mabdulfazov/study_2021-2022_os-intro/blob/master/labs/lab03/report/images/12.png){#fig:0012 width=70%}
