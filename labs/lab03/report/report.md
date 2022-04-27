@@ -13,7 +13,7 @@ fontsize: 12pt
 linestretch: 1.5
 papersize: a4paper
 documentclass: scrreprt
-polyglossia-lang: russian
+
 polyglossia-otherlangs: english
 mainfont: PT Serif
 romanfont: PT Serif
